@@ -1,0 +1,14 @@
+name: DragonBlessing
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+description: Custom dragon blessed tools for your server.
+author: EnderDevelopment
+commands:
+  dragonblessing:
+    description: Gives the player dragon blessed tools.
+    usage: /dragonblessing
+    aliases: [db, dragontool]
+  dragontools:
+    description: Opens the dragon tools menu.
+    usage: /dragontools
